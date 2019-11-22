@@ -1,4 +1,4 @@
-# Dcokerのオフィシャルrubyイメージとは?
+# Dockerのオフィシャルrubyイメージとは?
 
 author
 :   Kazuhiro NISHIYAMA
